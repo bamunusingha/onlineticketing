@@ -15,8 +15,8 @@
     <link rel="stylesheet" href="<c:url value="/css/main.css" />">
 
     <!-- Latest compiled and minified JavaScript -->
-    <script src="<c:url value="/js/jquery-2.1.1.min.js" />"></script>
-    <script src="<c:url value="/js/bootstrap.min.js" />"></script>
+    <script src="<c:url value="/js/common/jquery-2.1.1.min.js" />"></script>
+    <script src="<c:url value="/js/common/bootstrap.min.js" />"></script>
 
 </head>
 
